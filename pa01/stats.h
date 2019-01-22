@@ -2,8 +2,6 @@
 // Written by: Michael Main (main@colorado.edu)
 // CLASS PROVIDED: statistician
 //   (a class to keep track of statistics on a sequence of real numbers)
-//   This class is part of the namespace main_savitch_2C.
-//
 // CONSTRUCTOR for the statistician class:
 //   statistician( );
 //     Postcondition: The object has been initialized, and is ready to accept
